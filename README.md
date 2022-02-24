@@ -14,6 +14,9 @@ A collection of awesome resources to learn Web 3.0.
     - [Ganache](#ganache)
 - [Remix IDE](#remix-ide)
 - [Framework for dApp Development](#framework-for-dapp-development)
+    - [thirdweb](#thirdweb)
+    - [Hardhat](#hardhat)
+    - [Truffle](#truffle)
 
 ## Blockchain
 
@@ -66,16 +69,16 @@ A collection of awesome resources to learn Web 3.0.
 
 ## Framework for dApp development
 
-- thirdweb
+- ### thirdweb
   - 📄[Official Documentation](https://portal.thirdweb.com/learn)
   - ▶️[🔴 Build Modern Cryptopunk Clone with React.js & Web 3.0](https://www.youtube.com/watch?v=hhZtiytNaBQ&t=6622s)
 *You learn about thirdweb in the beginning. Rest of the tutorial is for web development*
 
-- Hardhat
+- ### Hardhat
     - 📄[Official Documentation](https://hardhat.org/getting-started/)
     - ▶️[Hardhat Tutorial | Smart contract framework](https://www.youtube.com/watch?v=9Qpi80dQsGU)
 
-- Truffle
+- ### Truffle
     - 📄[Official Documentation](https://trufflesuite.com/docs/index.html)
     - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
 ](https://www.youtube.com/watch?v=62f757RVEvU)
