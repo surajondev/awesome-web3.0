@@ -21,6 +21,8 @@ A collection of awesome resources to learn Web 3.0.
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
 - 📄[Blockchain 2.0 – Explaining Smart Contracts And Its Types](https://ostechnix.com/blockchain-2-0-explaining-smart-contracts-and-its-types/)
+- ▶️[Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t)
+
 
 ## Interface with Blockchain
 
