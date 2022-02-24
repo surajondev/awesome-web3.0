@@ -2,6 +2,19 @@
 
 A collection of awesome resources to learn Web 3.0.
 
+- [Blockchain](#blockchain)
+- [Ethereum](#ethereum)
+- [dApp](#dapp)
+- [Smart Contracts](#smart-contracts)
+- [Interface with Blockchain](#interface-with-blockchain)
+    - [ether.js](#Ether.js)
+    - [web3.js](#web3.js)
+- [Solidity](#solidity)
+- [Local blockchain development environment](#local-blockchain-development-environment)
+    - [Ganache](#ganache)
+- [Remix IDE](#remix-ide)
+- [Framework for dApp Development](#framework-for-dapp-development)
+
 ## Blockchain
 
 - 📄[What is blockchain technology?](https://www.ibm.com/in-en/topics/what-is-blockchain)
@@ -26,11 +39,11 @@ A collection of awesome resources to learn Web 3.0.
 
 ## Interface with Blockchain
 
-- Ether.js
+- ### Ether.js
     - 📄[Official Documentation](https://docs.ethers.io/v5/)
     - ▶️[Introduction to Ethers.js (Alternative to Web3)](https://www.youtube.com/watch?v=cqdAQK7WOlE)
 
-- Web3.js
+- ### Web3.js
     - 📄[Official Documentation](https://web3js.readthedocs.io/en/v1.7.0/)
     - 📄[Intro to Web3.js · Ethereum Blockchain Developer Crash Course](https://www.dappuniversity.com/articles/web3-js-intro)
   
@@ -40,23 +53,14 @@ A collection of awesome resources to learn Web 3.0.
 - ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 - 📄[Cypto Zombie](https://cryptozombies.io/)
 
-## Interaction between frontend and blockchain
-
-- Ether.js
-    - 📄[Official Documentation](https://docs.ethers.io/v5/)
-    - ▶️[Introduction to Ethers.js (Alternative to Web3)](https://www.youtube.com/watch?v=cqdAQK7WOlE)
-
-- Web3.js
-    - 📄[Official Documentation](https://web3js.readthedocs.io/en/v1.7.0/)
-    - 📄[Intro to Web3.js · Ethereum Blockchain Developer Crash Course](https://www.dappuniversity.com/articles/web3-js-intro)
 
 ## Local blockchain development environment
 
-- Ganache
+- ### Ganache
     - 📄[Official Documentation](https://trufflesuite.com/docs/ganache/)
     - ▶️[Deploy Solidity Smart Contracts with Ganache Personal Blockchain](https://www.youtube.com/watch?v=UnNPv6zEbwc)
 
-## Remix IDE for Smart Contract deployment
+## Remix IDE
 - 📄[Official Documentation](https://remix-ide.readthedocs.io/en/latest/)
 - ▶️[Deploy your first Solidity smart contract with Remix IDE](https://www.youtube.com/watch?v=bZKVfXmzRDw)
 
