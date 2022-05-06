@@ -1,5 +1,8 @@
 # Awesome Web 3.0
 
+![Awesome Web3 Free Resources](https://user-images.githubusercontent.com/67496096/167166978-7e49d114-8d84-4f76-a1f4-0d3d304b9439.png)
+
+
 A collection of awesome resources to learn Web 3.0.
 
 - [Blockchain](#blockchain)
