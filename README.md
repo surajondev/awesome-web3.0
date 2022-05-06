@@ -13,7 +13,9 @@ Developers who are unsure about the future of web3. I strongly believe in web3 d
   
 I do believe in Web3. So remove any doubts from your mind regarding web3 and let's get started.
 
-A collection of awesome resources to learn Web 3.0.
+---
+
+This repository is contsist of collection of awesome resources to learn Web 3.0.
 
 - [Blockchain](#blockchain)
 - [Ethereum](#ethereum)
