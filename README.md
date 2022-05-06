@@ -2,6 +2,16 @@
 
 ![Awesome Web3 Free Resources](https://user-images.githubusercontent.com/67496096/167166978-7e49d114-8d84-4f76-a1f4-0d3d304b9439.png)
 
+The hot time to learn and ace in Web 3.0 is now. The community is still developing. There are sufficient resources and help in the community to start learning the web3.
+
+Developers who are unsure about the future of web3. I strongly believe in web3 due to the following reasons:
+- Community is building in recent times for learning and developing
+- There are startup ideas revolving around web3
+- This is the next big thing in web dev
+- Companies are building tools that help the development process
+- There are [grants](https://twitter.com/VittoStack/status/1491007572769488901) available for web3 projects
+  
+I do believe in Web3. So remove any doubts from your mind regarding web3 and let's get started.
 
 A collection of awesome resources to learn Web 3.0.
 
