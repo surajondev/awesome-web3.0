@@ -82,7 +82,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - 📄[Official Documentation](https://remix-ide.readthedocs.io/en/latest/)
 - ▶️[Deploy your first Solidity smart contract with Remix IDE](https://www.youtube.com/watch?v=bZKVfXmzRDw)
 
-## Framework for dApp development
+## Framework/SDK for dApp development
 
 - ### thirdweb
   - 📄[Official Documentation](https://portal.thirdweb.com/learn)
