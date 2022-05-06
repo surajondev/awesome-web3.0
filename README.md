@@ -15,7 +15,7 @@ I do believe in Web3. So remove any doubts from your mind regarding web3 and let
 
 ---
 
-This repository is contsist of collection of awesome resources to learn Web 3.0.
+This repository is consists of collection of awesome resources to learn Web 3.0.
 
 - [Blockchain](#blockchain)
 - [Ethereum](#ethereum)
