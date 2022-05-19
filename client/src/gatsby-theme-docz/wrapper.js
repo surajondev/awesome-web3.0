@@ -1,7 +1,5 @@
 import * as React from 'react'
 import { Helmet } from 'react-helmet-async'
-import faviconImg from '../../public/favicon.png'
-import headerImg from '../../public/header.png'
 
 // The doc prop contains some metadata about the page being rendered that you can use.
 const Wrapper = ({ children, doc }) => <React.Fragment>
@@ -20,9 +18,9 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
         gtag('config', 'G-1QLM240D13');
         </script> */}
         {/* FAVICON */}
-        <link rel="apple-touch-icon" sizes="180x180" href="../../public/favicon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="../../public/favicon.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="../../public/favicon.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href='../../public/favicon.png' />
+        <link rel="icon" type="image/png" sizes="32x32" href='../../public/favicon.png' />
+        <link rel="icon" type="image/png" sizes="16x16" href='../../public/favicon.png' />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
@@ -32,7 +30,7 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
         <meta property='twitter:url' content='https://web3-roadmap.netlify.app/'/>
         <meta property='twitter:title' content="Awesome Web3.0"/> 
         <meta property='twitter:description' content="Web3 Roadmap with free resources"/> 
-        <meta property='twitter:image' content='../../header.png'/>
+        <meta property='twitter:image' content='../../public/header.png' />
     </Helmet>
     {children}
 </React.Fragment>
