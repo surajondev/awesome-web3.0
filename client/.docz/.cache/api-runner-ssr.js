@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/user/Desktop/Study_Material/Web 3.0/web3.0-awesome/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\gatsby-theme-docz\\src\\base\\Layout.js"},"lessBabel":false,"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz"},
+      plugin: require('C:/Users/user/Desktop/Study_Material/Awesome-web3.0/awesome-web3.0/client/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\gatsby-theme-docz\\src\\base\\Layout.js"},"lessBabel":false,"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz"},
     },{
-      plugin: require('C:/Users/user/Desktop/Study_Material/Web 3.0/web3.0-awesome/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
+      plugin: require('C:/Users/user/Desktop/Study_Material/Awesome-web3.0/awesome-web3.0/client/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

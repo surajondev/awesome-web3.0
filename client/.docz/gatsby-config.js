@@ -33,7 +33,7 @@ const config = {
         mdxExtensions: ['.md', '.mdx'],
         docgenConfig: {},
         menu: [
-          'Introduction',
+          'Web3 Roadmap with free resources',
           'Web2 VS Web3',
           'Blockchain',
           'Ethereum',
@@ -60,7 +60,7 @@ const config = {
         open: null,
         'open-browser': null,
         root:
-          'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz',
+          'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz',
         base: '/',
         source: './',
         'gatsby-root': null,
@@ -75,42 +75,42 @@ const config = {
         title: 'Web3.0 Awesome',
         description: 'My awesome app using docz',
         host: 'localhost',
-        port: 3000,
+        port: 3001,
         p: 3000,
         separator: '-',
         paths: {
           root:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client',
           templates:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\docz-core\\dist\\templates',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\docz-core\\dist\\templates',
           docz:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz',
           cache:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\.cache',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\.cache',
           app:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app',
           appPackageJson:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\package.json',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\package.json',
           appTsConfig:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\tsconfig.json',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\tsconfig.json',
           gatsbyConfig:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\gatsby-config.js',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\gatsby-config.js',
           gatsbyBrowser:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\gatsby-browser.js',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\gatsby-browser.js',
           gatsbyNode:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\gatsby-node.js',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\gatsby-node.js',
           gatsbySSR:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\gatsby-ssr.js',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\gatsby-ssr.js',
           importsJs:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app\\imports.js',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app\\imports.js',
           rootJs:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app\\root.jsx',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app\\root.jsx',
           indexJs:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app\\index.jsx',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app\\index.jsx',
           indexHtml:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app\\index.html',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app\\index.html',
           db:
-            'C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\.docz\\app\\db.json',
+            'C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\.docz\\app\\db.json',
         },
       },
     },

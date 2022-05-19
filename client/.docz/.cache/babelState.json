@@ -7,31 +7,31 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome"
+            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client"
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -41,7 +41,7 @@
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -62,31 +62,31 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome"
+            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client"
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -96,7 +96,7 @@
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -117,31 +117,31 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome"
+            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client"
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -151,7 +151,7 @@
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -172,31 +172,31 @@
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome"
+            "root": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client"
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -206,7 +206,7 @@
           }
         },
         {
-          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Web 3.0\\web3.0-awesome\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\user\\Desktop\\Study_Material\\Awesome-web3.0\\awesome-web3.0\\client\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
