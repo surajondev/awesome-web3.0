@@ -6,11 +6,33 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
     <Helmet>
         <meta charSet="utf-8" />
         <title>Web3 Roadmap and free Resources</title>
-        <link rel="icon"
-            type="image/png"
-              href="http://example.com/myicon.png"
-        />
+        {/* META */}
         <meta name="google-site-verification" content="265WW_7-86QEPex2YdmTgdbeqqlRkpWXe0A7ppqa9MY" />
+        {/* Global site tag (gtag.js) - Google Analytics */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1QLM240D13"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+
+        gtag('config', 'G-1QLM240D13');
+        </script>
+        {/* FAVICON */}
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="theme-color" content="#ffffff" />
+         {/* Twitter */} 
+
+         <meta property='twitter:card' content='summary_large_image'/>  <meta property='twitter:url' 
+
+        content='https://linksake.github.io/docz-resume/'/> 
+
+         <meta property='twitter:title' content="Awesome Web3.0"/>  <meta property='twitter:description' content="Web3 Roadmap with free resources"/> 
+
+         <meta property='twitter:image' content='header.jpg'/> 
     </Helmet>
     {children}
 </React.Fragment>

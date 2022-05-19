@@ -1,4 +1,5 @@
 export default {
+    title:'Awesome Web3.0',
     menu: [
       'Web3 Roadmap with free resources',
       'Web2 VS Web3',
