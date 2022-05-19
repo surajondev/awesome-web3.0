@@ -1,0 +1,62 @@
+---
+name: Solidity
+route: /solidity
+---
+
+# Solidity
+
+A smart contract can be written in various programming languages such as Rust, Yul, and JavaScript. One programming language that is recommended and made for the purpose is **Solidity**. It is an object-oriented programming language. It is influenced by C++, Python, and JavaScript.
+
+![Solidity Development](https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png)
+
+# Hello World in Solidity
+
+Let’s do a Hello World in Solidity and have a basic knowledge of the syntax.
+The extension for a solidity file is `.sol`. At the top of every solidity file, we define the license of the code. It is not mandatory but recommended, without it, the compiler will give you a warning. We comment down the license.
+
+If you don’t want to define the license of the code or it is not open-source, you can use `UNLICENSED`. Otherwise, you can use a variety of licenses for your code such as MIT, Apache-2.0, or GPL-2.0. You can find more on it [here](https://spdx.dev/ids/#how).
+
+```
+// SPDX-License-Identifier: MIT
+```
+
+After defining the license of the code, we define the compiler version of the solidity to use. It starts with the keyword `pragma`. It is used to enable a certain feature of the compiler. After this, we have solidity then the version of the compiler. Currently, the latest version of solidity available is 0.8.13. You can always use the relational operator to define the version.
+
+```
+pragma solidity >=0.7.0 <0.9.0;
+```
+
+After this, we have to define the contract with the keyword `contract` followed by the name of the contract. After that, we have curly brackets. Within those, we define the code for the contract.
+
+```
+contract helloworld{
+  // CODE
+}
+```
+
+Within the contract, we define the data type for storing the value. As the Hello World! is the string we proceed with the keyword string. There is various data type such as boolean, integers, address, string, etc. After string, we can define the visibility quantifiers. There are four of these, that is, external, internal, public, and private. You can know it better [here](https://www.tutorialspoint.com/solidity/solidity_contracts.htm). We are going to use the public.
+
+Now define the name of the variable and assign the value to it.
+
+```
+string public myString = "Hello World!";
+```
+
+All together, the code will look like this:
+
+```
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.7.0 <0.9.0;
+contract hello{
+    string public myString = "Hello World!";
+}
+```
+
+Learning solidity and mastering it will help you in your career. Solidity for Web3 is like JavaScript for Web Development. In the future, there will be high demand for solidity developers for creating and managing smart contracts.
+
+# Resouces to learn
+
+- 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
+- 📄[What Is Solidity and How Is It Used to Develop Smart Contracts?](https://www.makeuseof.com/what-is-solidity/)
+- ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+- 📄[Cypto Zombie](https://cryptozombies.io/)
