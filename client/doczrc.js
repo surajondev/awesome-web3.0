@@ -12,5 +12,6 @@ export default {
       'Interaction with Blockchain',
       'Local blockchain development environment',
       'Framework'
-    ]
+    ],
+    description:"Web3 Roadmap and free Resources to learn and ace"
   }
