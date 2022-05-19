@@ -18,9 +18,9 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
         gtag('config', 'G-1QLM240D13');
         </script> */}
         {/* FAVICON */}
-        <link rel="apple-touch-icon" sizes="180x180" href="/favicon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
@@ -30,7 +30,7 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
         <meta property='twitter:url' content='https://web3-roadmap.netlify.app/'/>
         <meta property='twitter:title' content="Awesome Web3.0"/> 
         <meta property='twitter:description' content="Web3 Roadmap with free resources"/> 
-        <meta property='twitter:image' content='header.jpg'/>
+        <meta property='twitter:image' content='header.png'/>
     </Helmet>
     {children}
 </React.Fragment>
