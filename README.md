@@ -54,6 +54,16 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - 📄[Blockchain 2.0 – Explaining Smart Contracts And Its Types](https://ostechnix.com/blockchain-2-0-explaining-smart-contracts-and-its-types/)
 - ▶️[Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t)
 
+## Solidity
+- 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
+- 📄[What Is Solidity and How Is It Used to Develop Smart Contracts?](https://www.makeuseof.com/what-is-solidity/)
+- ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+- 📄[Cypto Zombie](https://cryptozombies.io/)
+
+## Crypto Wallet
+
+- 📄[What is a crypto wallet?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
+- 📄[6 Best Crypto Wallets of 2022](https://money.com/best-crypto-wallets/)
 
 ## Interface with Blockchain
 
@@ -65,12 +75,6 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
     - 📄[Official Documentation](https://web3js.readthedocs.io/en/v1.7.0/)
     - 📄[Intro to Web3.js · Ethereum Blockchain Developer Crash Course](https://www.dappuniversity.com/articles/web3-js-intro)
   
-## Solidity
-- 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
-- 📄[What Is Solidity and How Is It Used to Develop Smart Contracts?](https://www.makeuseof.com/what-is-solidity/)
-- ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
-- 📄[Cypto Zombie](https://cryptozombies.io/)
-
 
 ## Local blockchain development environment
 
