@@ -22,6 +22,7 @@ const Wrapper = ({ children, doc }) => <React.Fragment>
         <link rel="icon" type="image/png" sizes="32x32" href='../../public/favicon.png' />
         <link rel="icon" type="image/png" sizes="16x16" href='../../public/favicon.png' />
         <link rel="manifest" href="/site.webmanifest" />
+        <link rel="sitemap" href="../../public/sitemap.xml" type="application/xml" />
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
         {/* Twitter */}

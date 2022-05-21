@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://web3-roadmap.netlify.app/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/web2-vs-web3/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/blockchain/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/ethereum/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/decentralized-application/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/smart-contract/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/solidity/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/remix-ide/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/crypto-wallet/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/interaction-with-blockchain/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/local-blockchain-development-environment/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://web3-roadmap.netlify.app/framework/</loc>
+  <lastmod>2022-05-21T14:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
