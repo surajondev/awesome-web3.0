@@ -65,6 +65,12 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - 📄[What is a crypto wallet?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
 - 📄[6 Best Crypto Wallets of 2022](https://money.com/best-crypto-wallets/)
 
+## NFT
+
+- 📄[What is NFT and How Does NFT Work? The Ultimate Guide](https://www.simplilearn.com/tutorials/blockchain-tutorial)
+- 📄[8 Pros and Cons of Non-Fungible Tokens and How They Compare to Traditional Investments](https://www.annuity.org/2022/01/14/from-the-experts-8-pros-and-cons-of-nfts/)
+- ▶️[NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM)
+
 ## Interface with Blockchain
 
 - ### Ether.js
