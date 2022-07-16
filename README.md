@@ -25,6 +25,8 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
     - [ether.js](#Ether.js)
     - [web3.js](#web3.js)
 - [Solidity](#solidity)
+- [Crypto Waller](#crypto-wallet)
+- [NFT](#nft)
 - [Local blockchain development environment](#local-blockchain-development-environment)
     - [Ganache](#ganache)
 - [Remix IDE](#remix-ide)
