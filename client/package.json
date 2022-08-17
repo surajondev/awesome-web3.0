@@ -4,9 +4,9 @@
   "description": "Web3 Roadmap and free Resources to learn and ace in Web3",
   "main": "index.js",
   "scripts": {
-    "docz:dev": "docz dev",
-    "docz:build": "docz build",
-    "docz:serve": "docz build && docz serve"
+    "dev": "docz dev",
+    "build": "docz build",
+    "serve": "docz build && docz serve"
   },
   "keywords": [],
   "author": "",
