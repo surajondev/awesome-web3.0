@@ -17,23 +17,18 @@ I do believe in Web3. So remove any doubts from your mind regarding web3 and let
 
 This repository is consists of collection of awesome resources to learn Web 3.0.
 
-- [Blockchain](#blockchain)
-- [Ethereum](#ethereum)
-- [dApp](#dapp)
-- [Smart Contracts](#smart-contracts)
-- [Interface with Blockchain](#interface-with-blockchain)
-    - [ether.js](#Ether.js)
-    - [web3.js](#web3.js)
-- [Solidity](#solidity)
-- [Crypto Waller](#crypto-wallet)
-- [NFT](#nft)
-- [Local blockchain development environment](#local-blockchain-development-environment)
-    - [Ganache](#ganache)
-- [Remix IDE](#remix-ide)
-- [Framework for dApp Development](#framework-for-dapp-development)
-    - [thirdweb](#thirdweb)
-    - [Hardhat](#hardhat)
-    - [Truffle](#truffle)
+- [Awesome Web 3.0](#awesome-web-30)
+  - [Blockchain](#blockchain)
+  - [Ethereum](#ethereum)
+  - [dApp](#dapp)
+  - [Smart Contracts](#smart-contracts)
+  - [Solidity](#solidity)
+  - [Crypto Wallet](#crypto-wallet)
+  - [NFT](#nft)
+  - [Interface with Blockchain](#interface-with-blockchain)
+  - [Local blockchain development environment](#local-blockchain-development-environment)
+  - [Remix IDE](#remix-ide)
+  - [Framework/SDK for dApp development](#frameworksdk-for-dapp-development)
 
 ## Blockchain
 
@@ -69,6 +64,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 
 ## NFT
 
+- 📄[How to Make an NFT in 14 Lines of Code](https://www.freecodecamp.org/news/how-to-make-an-nft/)
 - 📄[What is NFT and How Does NFT Work? The Ultimate Guide](https://www.simplilearn.com/tutorials/blockchain-tutorial)
 - 📄[8 Pros and Cons of Non-Fungible Tokens and How They Compare to Traditional Investments](https://www.annuity.org/2022/01/14/from-the-experts-8-pros-and-cons-of-nfts/)
 - ▶️[NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM)
