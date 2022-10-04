@@ -55,6 +55,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 
 ## Solidity
 - 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
+- 📄[Solidity & Vyper Cheat Sheet](https://reference.auditless.com/cheatsheet/)
 - 📄[What Is Solidity and How Is It Used to Develop Smart Contracts?](https://www.makeuseof.com/what-is-solidity/)
 - ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 - 📄[Cypto Zombie](https://cryptozombies.io/)
