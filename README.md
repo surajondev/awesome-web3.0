@@ -50,6 +50,9 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 ## dApp
 - 📄[What is a Dapp? A Guide to Ethereum Dapps](https://freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 - ▶️[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8)
+- ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
+- ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
+- ▶️[Build your first dApp](https://www.youtube.com/watch?v=aqxAWLi6UMA)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
