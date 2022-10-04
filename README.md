@@ -51,6 +51,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
 - 📄[Blockchain 2.0 – Explaining Smart Contracts And Its Types](https://ostechnix.com/blockchain-2-0-explaining-smart-contracts-and-its-types/)
 - ▶️[Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t)
+- 📄[SMART CONTRACT LANGUAGES](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
 
 ## Solidity
 - 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
