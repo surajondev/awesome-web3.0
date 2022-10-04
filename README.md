@@ -29,6 +29,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
   - [Local blockchain development environment](#local-blockchain-development-environment)
   - [Remix IDE](#remix-ide)
   - [Framework/SDK for dApp development](#frameworksdk-for-dapp-development)
+  - [Books](#books)
 
 ## Blockchain
 
@@ -105,3 +106,9 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
     - 📄[Official Documentation](https://trufflesuite.com/docs/index.html)
     - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
 ](https://www.youtube.com/watch?v=62f757RVEvU)
+
+## Books
+
+- ### Ethereum
+
+  - 📖[Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains](https://proofofstake.gitcoin.co/) 
