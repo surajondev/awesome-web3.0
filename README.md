@@ -54,9 +54,11 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
 - 📄[Blockchain 2.0 – Explaining Smart Contracts And Its Types](https://ostechnix.com/blockchain-2-0-explaining-smart-contracts-and-its-types/)
 - ▶️[Smart contracts - Simply Explained](https://www.youtube.com/watch?v=ZE2HxTmxfrI&t)
+- 📄[SMART CONTRACT LANGUAGES](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
 
 ## Solidity
 - 📄[Official Documentaiton](https://docs.soliditylang.org/en/v0.8.11/)
+- 📄[Solidity & Vyper Cheat Sheet](https://reference.auditless.com/cheatsheet/)
 - 📄[What Is Solidity and How Is It Used to Develop Smart Contracts?](https://www.makeuseof.com/what-is-solidity/)
 - ▶️[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 - 📄[Cypto Zombie](https://cryptozombies.io/)
@@ -111,6 +113,10 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 ](https://www.youtube.com/watch?v=62f757RVEvU)
 
 ## Books
+
+- ### Blockchain
+
+  - 📖[Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them (Cryptography, Derivatives Investments, Futures Trading, Digital Assets, NFT)](https://www.amazon.de/Basics-Bitcoins-Blockchains-Antony-Lewis/dp/1633538001) 
 
 - ### Ethereum
 
