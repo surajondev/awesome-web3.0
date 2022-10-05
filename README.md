@@ -122,3 +122,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
 - ### Ethereum
 
   - 📖[Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains](https://proofofstake.gitcoin.co/) 
+
+- ### NFT
+
+    - 📖[The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens](https://thenfthandbook.com/) 
