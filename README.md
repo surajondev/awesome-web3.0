@@ -103,6 +103,7 @@ This repository is consists of collection of awesome resources to learn Web 3.0.
   - 📄[Official Documentation](https://portal.thirdweb.com/learn)
   - ▶️[🔴 Build Modern Cryptopunk Clone with React.js & Web 3.0](https://www.youtube.com/watch?v=hhZtiytNaBQ&t=6622s)
 *You learn about thirdweb in the beginning. Rest of the tutorial is for web development*
+  - 📄[https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb](https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb)
 
 - ### Hardhat
     - 📄[Official Documentation](https://hardhat.org/getting-started/)
