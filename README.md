@@ -21,6 +21,7 @@ This repository consists of collections of awesome resources to learn Web 3.0.
   - [Blockchain](#blockchain)
   - [Ethereum](#ethereum)
   - [dApp](#dapp)
+  - [deFi](#deFi)
   - [Smart Contracts](#smart-contracts)
   - [Solidity](#solidity)
   - [Crypto Wallet](#crypto-wallet)
@@ -49,6 +50,11 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
 - ▶️[Build your first dApp](https://www.youtube.com/watch?v=aqxAWLi6UMA)
+
+
+##deFi
+-[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
+-[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
