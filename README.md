@@ -36,6 +36,7 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - 📄[What is blockchain technology?](https://www.ibm.com/in-en/topics/what-is-blockchain)
 - ▶️[Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/)
 - ▶️[Blockchain Full Course - 4 Hours | Blockchain Tutorial | Blockchain Technology Explained | Edureka](https://www.youtube.com/watch?v=QCvL-DWcojc&t=7471s)
+- 
 
 ## Ethereum
 - 📄[Official Website](https://ethereum.org/en/)
@@ -75,7 +76,8 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - 📄[How to Make an NFT in 14 Lines of Code](https://www.freecodecamp.org/news/how-to-make-an-nft/)
 - 📄[What is NFT and How Does NFT Work? The Ultimate Guide](https://www.simplilearn.com/tutorials/blockchain-tutorial)
 - 📄[8 Pros and Cons of Non-Fungible Tokens and How They Compare to Traditional Investments](https://www.annuity.org/2022/01/14/from-the-experts-8-pros-and-cons-of-nfts/)
-- ▶️[NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM)
+-  📄[Learn Everything about nfts](https://metaschool.so/course/learn-everything-about-nfts)
+-  ▶️[NFTs, Explained](https://www.youtube.com/watch?v=Oz9zw7-_vhM)
 
 ## Interface with Blockchain
 
