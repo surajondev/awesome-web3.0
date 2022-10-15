@@ -51,6 +51,7 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
 - ▶️[Build your first dApp](https://www.youtube.com/watch?v=aqxAWLi6UMA)
+- ▶️[Web 3 twitter dAPP with Solidity](https://metaschool.so/course/build-your-own-web3-twitter-dapp-with-solidity)
 
 
 ##deFi
