@@ -43,6 +43,7 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - 📄[Official Website](https://ethereum.org/en/)
 - ▶️[What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/)
 - ▶️[Ethereum Tutorial For Beginners | What Is Ethereum? | Ethereum 2020 Explained | Simplilearn](https://www.youtube.com/watch?v=uneCaqD6Etk)
+- ▶️[How Ethereum work -a deep dive] (https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
 
 
 ## dApp
