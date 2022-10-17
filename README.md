@@ -141,3 +141,9 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - ### NFT
 
     - 📖[The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens](https://thenfthandbook.com/) 
+
+## Contributors
+
+<a href="https://github.com/surajondev/awesome-web3.0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=surajondev/awesome-web3.0" />
+</a>
