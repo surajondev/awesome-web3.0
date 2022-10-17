@@ -125,6 +125,14 @@ This repository consists of collections of awesome resources to learn Web 3.0.
     - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
 ](https://www.youtube.com/watch?v=62f757RVEvU)
 
+- ### Embark
+    - 📄[Official Documentation](https://framework.embarklabs.io/docs/index.html)
+    - ▶️[Beginner's Guide/Tutorial to Programming Ethereum Dapps with the Embark Framework and Solidity](https://www.youtube.com/watch?v=D6l3dR5GnMc)
+
+- ### Brownie
+    - 📄[Official Documentation](https://eth-brownie.readthedocs.io/en/stable/)
+    - ▶️[Getting Started with Brownie (Web3 Python-based framework for smart contracts)](https://www.youtube.com/watch?v=iWU8YlxYTeE)
+
 ## Books
 
 - ### Blockchain
