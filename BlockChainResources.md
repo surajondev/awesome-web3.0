@@ -45,6 +45,14 @@
 **15.The Blockchain Technology**
 [Click here to Download](https://github.com/kavyaLokuge/awesome-web3.0/files/9782654/overview.pdf)
 
+**16.Mastering Bitcoin: Unlocking Digital Cryptocurrencies**
+[Click here to Download](https://www.pdfdrive.com/download.pdf?id=157826481&h=e17df3bd18ff91a55a2522f65ef4ad30&u=cache&ext=pdf)
+
+**17.The Book of Satoshi by Phil Champagne**
+[Click here to Download](https://www.pdfdrive.com/download.pdf?id=158473953&h=f35b07a1e91f71c670957f465ca0eab4&u=cache&ext=pdf)
+
+
+
 
 
 
