@@ -48,6 +48,8 @@ This repository features impressive collections of resources to learn Web 3.0..
 
 ## dApp
 - 📄[What is a Dapp? A Guide to Ethereum Dapps](https://freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
+- 📄[Introduction to dApps](https://ethereum.org/en/developers/docs/dapps/) 
+- 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/) 
 - ▶️[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8)
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
