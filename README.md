@@ -130,6 +130,7 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - ### Blockchain
 
   - 📖[Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them (Cryptography, Derivatives Investments, Futures Trading, Digital Assets, NFT)](https://www.amazon.de/Basics-Bitcoins-Blockchains-Antony-Lewis/dp/1633538001) 
+  - 📖[Mastering Blockchain: Deeper insights into decentralization, cryptography, Bitcoin, and popular Blockchain frameworks](https://www.amazon.in/Mastering-Blockchain-Imran-Bashir/dp/1787125440/ref=asc_df_1787125440/?tag=googleshopmob-21&linkCode=df0&hvadid=397107866819&hvpos=&hvnetw=g&hvrand=17502172973431619783&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007828&hvtargid=pla-315141247886&psc=1&ext_vrnc=hi) 
   
 - ### Bitcoin
   - 📖[Mastering Bitcoin, 2nd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/)
