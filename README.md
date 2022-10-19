@@ -2,9 +2,9 @@
 
 ![Awesome Web3 Free Resources](https://user-images.githubusercontent.com/67496096/167166978-7e49d114-8d84-4f76-a1f4-0d3d304b9439.png)
 
-The hot time to learn and ace in Web 3.0 is now. The community is still developing. There are sufficient resources and help in the community to start learning about web3.
+The time has come to learn and excel in Web 3.0. The community is always growing. There are enough resources and help in the community to begin with.
 
-For developers who are unsure about the future of web3, I strongly believe in web3 for the following reasons:
+For developers who are uncertain about web3's future, I strongly believe in web3 due to the following reasons:
 - Recently, the community has been growing for learners and developers
 - There are startup ideas revolving around web3
 - This is the next big thing in web dev
@@ -15,7 +15,7 @@ I do believe in Web3, so remove any doubts from your mind regarding web3 and let
 
 ---
 
-This repository consists of collections of awesome resources to learn Web 3.0.
+This repository features impressive collections of resources to learn Web 3.0..
 
 - [Awesome Web 3.0](#awesome-web-30)
   - [Blockchain](#blockchain)
@@ -125,6 +125,14 @@ This repository consists of collections of awesome resources to learn Web 3.0.
     - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
 ](https://www.youtube.com/watch?v=62f757RVEvU)
 
+- ### Embark
+    - 📄[Official Documentation](https://framework.embarklabs.io/docs/index.html)
+    - ▶️[Beginner's Guide/Tutorial to Programming Ethereum Dapps with the Embark Framework and Solidity](https://www.youtube.com/watch?v=D6l3dR5GnMc)
+
+- ### Brownie
+    - 📄[Official Documentation](https://eth-brownie.readthedocs.io/en/stable/)
+    - ▶️[Getting Started with Brownie (Web3 Python-based framework for smart contracts)](https://www.youtube.com/watch?v=iWU8YlxYTeE)
+
 ## Books
 
 - ### Blockchain
@@ -141,3 +149,9 @@ This repository consists of collections of awesome resources to learn Web 3.0.
 - ### NFT
 
     - 📖[The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens](https://thenfthandbook.com/) 
+
+## Contributors
+
+<a href="https://github.com/surajondev/awesome-web3.0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=surajondev/awesome-web3.0" />
+</a>
