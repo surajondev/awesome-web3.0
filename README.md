@@ -110,6 +110,10 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[Official Documentation](https://remix-ide.readthedocs.io/en/latest/)
 - ▶️[Deploy your first Solidity smart contract with Remix IDE](https://www.youtube.com/watch?v=bZKVfXmzRDw)
 
+## Hardhat
+  - 📄[Official Documentation](https://hardhat.org/docs)
+  - ▶️[Deploy Solidity Smart Contracts with Hardhat Local Blockchain](https://www.youtube.com/watch?v=GBc3lBrXEBo)
+
 ## Framework/SDK for dApp development
 
 - ### thirdweb
