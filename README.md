@@ -37,13 +37,14 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[What is blockchain technology?](https://www.ibm.com/in-en/topics/what-is-blockchain)
 - ▶️[Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/)
 - ▶️[Blockchain Full Course - 4 Hours | Blockchain Tutorial | Blockchain Technology Explained | Edureka](https://www.youtube.com/watch?v=QCvL-DWcojc&t=7471s)
-- 
+
 
 ## Ethereum
 - 📄[Official Website](https://ethereum.org/en/)
 - ▶️[What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/)
 - ▶️[Ethereum Tutorial For Beginners | What Is Ethereum? | Ethereum 2020 Explained | Simplilearn](https://www.youtube.com/watch?v=uneCaqD6Etk)
 - ▶️[How Ethereum work -a deep dive] (https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
+- ▶️[The rise of Ethereum | Pros & Cons](https://www.analyticssteps.com/blogs/advantages-and-disadvantages-ethereum)
 
 
 ## dApp
