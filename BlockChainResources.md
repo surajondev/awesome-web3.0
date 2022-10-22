@@ -53,7 +53,7 @@
 
 
 **18. Get started Building WEb3 Apps with Cloudflare**
-[Click here to check out there blog for more](blog.cloudflare.com/get-started-web3)
+[Click here to check out there blog for more](https://blog.cloudflare.com/get-started-web3/)
 
 
 
