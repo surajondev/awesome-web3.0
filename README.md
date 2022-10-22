@@ -57,9 +57,9 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ▶️[Web 3 twitter dAPP with Solidity](https://metaschool.so/course/build-your-own-web3-twitter-dapp-with-solidity)
 
 
-##deFi
--[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
--[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
+## deFi
+-📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
+-▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
