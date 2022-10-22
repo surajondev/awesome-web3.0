@@ -17,7 +17,6 @@ I do believe in Web3, so remove any doubts from your mind regarding web3 and let
 
 This repository features impressive collections of resources to learn Web 3.0..
 
-- [Awesome Web 3.0](#awesome-web-30)
   - [Blockchain](#blockchain)
   - [Ethereum](#ethereum)
   - [dApp](#dapp)
@@ -43,7 +42,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[Official Website](https://ethereum.org/en/)
 - ▶️[What Is Ethereum And How Does It Work?](https://www.forbes.com/advisor/investing/what-is-ethereum-ether/)
 - ▶️[Ethereum Tutorial For Beginners | What Is Ethereum? | Ethereum 2020 Explained | Simplilearn](https://www.youtube.com/watch?v=uneCaqD6Etk)
-- ▶️[How Ethereum work -a deep dive] (https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
+- ▶️[How Ethereum work -a deep dive](https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
 
 
 ## dApp
@@ -58,8 +57,8 @@ This repository features impressive collections of resources to learn Web 3.0..
 
 
 ## deFi
--📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
--▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
+- 📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
+- ▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
