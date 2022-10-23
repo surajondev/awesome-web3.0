@@ -52,7 +52,7 @@
 [Click here to Download](https://www.pdfdrive.com/download.pdf?id=158473953&h=f35b07a1e91f71c670957f465ca0eab4&u=cache&ext=pdf)
 
 
-**16. Get started Building WEb3 Apps with Cloudflare**
+**18. Get started Building WEb3 Apps with Cloudflare**
 [Click here to check out there blog for more](blog.cloudflare.com/get-started-web3)
 
 
