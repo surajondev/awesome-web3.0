@@ -57,7 +57,7 @@
 
 
 **19. Blockchain Technology Explained: The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA and Smart Contracts**
-[Click here to check out there blog for more](https://b-ok.cc/book/21258034/6ae061)
+[Click here to Download](https://b-ok.cc/book/21258034/6ae061)
 
 
 
