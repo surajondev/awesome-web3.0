@@ -36,7 +36,6 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[What is blockchain technology?](https://www.ibm.com/in-en/topics/what-is-blockchain)
 - ▶️[Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/)
 - ▶️[Blockchain Full Course - 4 Hours | Blockchain Tutorial | Blockchain Technology Explained | Edureka](https://www.youtube.com/watch?v=QCvL-DWcojc&t=7471s)
-- 
 
 ## Ethereum
 - 📄[Official Website](https://ethereum.org/en/)
@@ -59,6 +58,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 ## deFi
 - 📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
 - ▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
+- 📄[Get notified when your LP positions on Uni V3 fall out of range and you stop earning fees](https://app.push.org/#/channels)
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
