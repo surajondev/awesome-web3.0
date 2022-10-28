@@ -60,4 +60,5 @@
 [Click here to Download](https://b-ok.cc/book/21258034/6ae061)
 
 
-
+**20. The Basics of Bitcoins and Blockchains**
+[Click here to Download](https://b-ok.asia/book/3695543/3ec55f)
