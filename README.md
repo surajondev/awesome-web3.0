@@ -162,6 +162,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ### NFT
 
     - 📖[The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens](https://thenfthandbook.com/) 
+    - SimpleHash - API to query NFT data, sales, floor prices and listings across multiple chains [Official documentation](https://docs.simplehash.com/)
 
 ## Contributors
 
