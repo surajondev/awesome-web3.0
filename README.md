@@ -144,6 +144,10 @@ This repository features impressive collections of resources to learn Web 3.0..
     - 📄[Official Documentation](https://eth-brownie.readthedocs.io/en/stable/)
     - ▶️[Getting Started with Brownie (Web3 Python-based framework for smart contracts)](https://www.youtube.com/watch?v=iWU8YlxYTeE)
 
+- ### Privy
+    - 📄[Official Documentation](https://docs.privy.io/)
+    - 📄[Getting Started with Privy (Authentication for all your users in web3)](https://docs.privy.io/guide/quickstart)
+ 
 ## Books
 
 - ### Blockchain
