@@ -49,10 +49,15 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ▶️[How Ethereum work -a deep dive](https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
 
 
-## dApp
+## dApp 
+- 📄[Decentralized application on Wikipedia](https://en.wikipedia.org/wiki/Decentralized_application)
 - 📄[What is a Dapp? A Guide to Ethereum Dapps](https://freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 - 📄[Introduction to dApps](https://ethereum.org/en/developers/docs/dapps/) 
-- 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/) 
+- 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/)
+- 📄[DApp Development Frameworks](https://ethereum.org/en/developers/docs/frameworks/)
+- 📖[How to create an Ethereum Dapp?](https://www.amazon.in/create-Ethereum-Dapp-Praveen-Soundarajan-ebook/dp/B08Z3H23TF)
+- 📖[Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain](https://www.amazon.in/Building-Ethereum-Apps-Decentralized-Applications/dp/1617295159)
+- 📖[Architecture Ethereum DApp with Angular, Angular Material and NgRx](https://www.kobo.com/in/en/ebook/architecture-ethereum-dapp-with-angular-angular-material-and-ngrx)
 - ▶️[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8)
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
