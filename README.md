@@ -49,10 +49,15 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ▶️[How Ethereum work -a deep dive](https://metaschool.so/course/how-does-ethereum-work-a-deepdive)
 
 
-## dApp
+## dApp 
+- 📄[Decentralized application on Wikipedia](https://en.wikipedia.org/wiki/Decentralized_application)
 - 📄[What is a Dapp? A Guide to Ethereum Dapps](https://freecodecamp.org/news/what-is-a-dapp-a-guide-to-ethereum-dapps/)
 - 📄[Introduction to dApps](https://ethereum.org/en/developers/docs/dapps/) 
-- 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/) 
+- 📄[Build a dApp in 15 minutes](https://docs.elrond.com/developers/tutorials/your-first-dapp/)
+- 📄[DApp Development Frameworks](https://ethereum.org/en/developers/docs/frameworks/)
+- 📖[How to create an Ethereum Dapp?](https://www.amazon.in/create-Ethereum-Dapp-Praveen-Soundarajan-ebook/dp/B08Z3H23TF)
+- 📖[Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain](https://www.amazon.in/Building-Ethereum-Apps-Decentralized-Applications/dp/1617295159)
+- 📖[Architecture Ethereum DApp with Angular, Angular Material and NgRx](https://www.kobo.com/in/en/ebook/architecture-ethereum-dapp-with-angular-angular-material-and-ngrx)
 - ▶️[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8)
 - ▶️[Learn web3 development by building a dapp p1](https://www.youtube.com/watch?v=QkmXFCBSHgs)
 - ▶️[Learn web3 development by building a dapp p2](https://www.youtube.com/watch?v=A0B13zKVhPE&t=4s) 
@@ -124,7 +129,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ### thirdweb
   - 📄[Official Documentation](https://portal.thirdweb.com/learn)
   - ▶️[🔴 Build Modern Cryptopunk Clone with React.js & Web 3.0](https://www.youtube.com/watch?v=hhZtiytNaBQ&t=6622s)
-*You learn about thirdweb in the beginning. Rest of the tutorial is for web development*
+*You learn about thirdweb in the beginning. The rest of the tutorial is for web development*
   - 📄[https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb](https://blog.avneesh.tech/how-to-add-web3-sign-in-with-thirdweb)
 
 - ### Hardhat
@@ -133,8 +138,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 
 - ### Truffle
     - 📄[Official Documentation](https://trufflesuite.com/docs/index.html)
-    - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
-](https://www.youtube.com/watch?v=62f757RVEvU)
+    - ▶️[Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain](https://www.youtube.com/watch?v=62f757RVEvU)
 
 - ### Embark
     - 📄[Official Documentation](https://framework.embarklabs.io/docs/index.html)
@@ -147,6 +151,47 @@ This repository features impressive collections of resources to learn Web 3.0..
 - ### Privy
     - 📄[Official Documentation](https://docs.privy.io/)
     - 📄[Getting Started with Privy (Authentication for all your users in web3)](https://docs.privy.io/guide/quickstart)
+ 
+- ### Aragon
+   - 📄[Official Documentation](https://docs.aragon.org/)
+   - ▶️[about Aragon](https://aragon.org/about-aragon)
+
+- ### OpenZeppelin
+   - 📄[Official Documentation](https://docs.openzeppelin.com/)
+   - 📄[OpenZeppelin on Github](https://github.com/OpenZeppelin)
+   - ▶️[Get started with OpenZeppelin](https://www.youtube.com/watch?v=qy_A8wvKH7g&ab_channel=MicrosoftDeveloper)
+
+- ### Nethereum
+   - 📄[Official Documentation](https://nethereum.readthedocs.io/)
+   - ▶️[HOW TO GET ETHER BALANCE USING NETHEREUM (GET STARTED TUTORIAL)](https://www.youtube.com/watch?v=xIYCv15MpbA)
+
+- ### Hyperledger Fabric
+    - 📄[Official Documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.2/)
+    - ▶️[Getting Started with Hyperledger Fabric and Installation](https://www.youtube.com/watch?v=acHiHRJ-dVM)
+
+- ### Hyperledger Besu
+    - 📄[Official Documentation](https://besu.hyperledger.org/docs/)
+    - ▶️[Introduction to Hyperledger Besu for developers](https://www.youtube.com/watch?v=L9pdntIbIvg)
+    
+- ### EOSIO
+    - 📄[Official Documentation](https://developers.eos.io/)
+    - ▶️[Introduction To EOSIO](https://developers.eos.io/welcome/v2.2/introduction-to-eosio/index)
+
+- ### Flow
+    - 📄[Official Documentation](https://docs.onflow.org/)
+    - ▶️[Create your First DApp on the Flow Blockchain (local emulator + dev wallet)](https://www.youtube.com/watch?v=hnmmkIIQDtU)
+
+- ### Neo Blockchain Toolkit
+    - 📄[Official Documentation](https://docs.neo.org/docs/en-us/toolkit/2.10.2/intro/introduction.html)
+    - ▶️[Introduction to Neo Blockchain Toolkit for VS Code](https://www.youtube.com/watch?v=b-BzFEurYF4)
+
+- ### Nervos CKB (Common Knowledge Base)
+    - 📄[Official Documentation](https://docs.nervos.org/)
+    - ▶️[The Nervos Network explained in under 5 minutes](https://www.youtube.com/watch?v=7ThcgGpqTZg)
+
+- ### Algorand SDKs
+    - 📄[Official Documentation](https://developer.algorand.org/docs/)
+    - ▶️[Introduction - Algorand Developer Portal](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/)
  
 ## Books
 
