@@ -89,6 +89,8 @@ This repository features impressive collections of resources to learn Web 3.0..
 
 - 📄[What is a crypto wallet?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
 - 📄[6 Best Crypto Wallets of 2022](https://money.com/best-crypto-wallets/)
+- 📄[How to Choose the Right Crypto Wallet for Your Needs](https://www.investopedia.com/best-bitcoin-wallets-5072482)
+- 📄[Understanding the Importance of Security in Crypto Wallets](https://cointelegraph.com/magazine/2021/11/16/the-importance-of-security-in-crypto-wallets)
 - ▶️[What are Crypto Wallets｜Explained for beginners](https://www.youtube.com/watch?v=d8IBpfs9bf4)
 
 ## NFT
