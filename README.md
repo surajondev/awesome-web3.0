@@ -33,6 +33,7 @@ This repository features impressive collections of resources to learn Web 3.0..
   - [Books](#books)
 
 ## Web3
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 - [What is web3?](https://ethereum.org/en/web3/)
 - [Web3coda](https://web3coda.com/) - Web3coda provides bite-sized, hands-on Web3 and Blockchain exercises with online environment (with pre installed/configured tools) and simple to follow manuals.
