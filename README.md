@@ -198,6 +198,9 @@ This repository features impressive collections of resources to learn Web 3.0..
  
 ## Books
 
+- ### Learning Resources
+  - [LianXinShe - Chinese Blockchain Learning Resources](https://www.lianxinshe666.com/special/blockchain/) - Curated tutorials, guides, and educational content about blockchain, DeFi, NFTs, and Web3 in Chinese.
+
 - ### Blockchain
 
   - 📖[Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them (Cryptography, Derivatives Investments, Futures Trading, Digital Assets, NFT)](https://www.amazon.de/Basics-Bitcoins-Blockchains-Antony-Lewis/dp/1633538001) 
