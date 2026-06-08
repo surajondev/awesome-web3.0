@@ -196,6 +196,10 @@ This repository features impressive collections of resources to learn Web 3.0..
     - 📄[Official Documentation](https://developer.algorand.org/docs/)
     - ▶️[Introduction - Algorand Developer Portal](https://developer.algorand.org/docs/get-details/dapps/smart-contracts/)
  
+## AI Agent Tools & MCP Servers
+
+- 🔧[TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Remote hosted: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Books
 
 - ### Blockchain
