@@ -71,6 +71,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
 - ▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 - 📄[Get notified when your LP positions on Uni V3 fall out of range and you stop earning fees](https://app.push.org/#/channels)
+- 📄[Build a Cryptocurrency & DeFi Research Agent in Python](https://superhighway.walls.sh/guides/crypto-research-agent) - Python agent that researches crypto assets and DeFi protocols using live web data — market metrics, on-chain analytics (TVL, protocol revenue), tokenomics, and recent developments — into structured JSON briefings.
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
