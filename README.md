@@ -69,6 +69,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 ## deFi
 
 - 📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
+- [OpenChainBench](https://openchainbench.com) — Open-source benchmarks for RPC endpoints and crypto data APIs across 22+ chains. CC BY 4.0 data.
 - ▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 - 📄[Get notified when your LP positions on Uni V3 fall out of range and you stop earning fees](https://app.push.org/#/channels)
 
