@@ -114,6 +114,7 @@ This repository features impressive collections of resources to learn Web 3.0..
   
 
 ## Local blockchain development environment
+- [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram/Discord when an SPL token crosses a price threshold, no API key needed.
 
 - ### Ganache
     - 📄[Official Documentation](https://trufflesuite.com/docs/ganache/)
