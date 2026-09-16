@@ -215,6 +215,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 
     - 📖[The NFT Handbook: How to Create, Sell and Buy Non-Fungible Tokens](https://thenfthandbook.com/) 
     - SimpleHash - API to query NFT data, sales, floor prices and listings across multiple chains [Official documentation](https://docs.simplehash.com/)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributors
 
