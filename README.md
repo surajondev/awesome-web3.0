@@ -71,6 +71,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 - 📄[Learn basics of Crypto and deFi](https://academy.stakedao.org/)
 - ▶️[Decentralized Finance Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)
 - 📄[Get notified when your LP positions on Uni V3 fall out of range and you stop earning fees](https://app.push.org/#/channels)
+- [Deep Blue Alpha](https://deepbluealpha.io/) - Free real-time Ethereum whale wallet tracker monitoring 20,000+ wallets with buy/sell classification, conviction scoring, net flow analysis, and a live leaderboard. No signup required.
 
 ## Smart Contracts
 - 📄[What is a smart contract and how does it work?](https://searchcompliance.techtarget.com/definition/smart-contract)
