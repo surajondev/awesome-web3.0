@@ -36,6 +36,7 @@ This repository features impressive collections of resources to learn Web 3.0..
 
 - [What is web3?](https://ethereum.org/en/web3/)
 - [Web3coda](https://web3coda.com/) - Web3coda provides bite-sized, hands-on Web3 and Blockchain exercises with online environment (with pre installed/configured tools) and simple to follow manuals.
+- [18btc](https://18btc.cc) - Curated crypto tools directory with hands-on reviews: market data, on-chain analytics, DeFi data, wallets, security tools and office tools. Bilingual Chinese/English.
 
 ## Blockchain
 
